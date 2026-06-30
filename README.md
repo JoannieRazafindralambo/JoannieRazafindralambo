@@ -4,7 +4,7 @@
 <!-- Statut et Compteur de visiteurs -->
 <p align="center">
   <img src="https://img.shields.io/badge/STATUT-DISPONIBLE%20POUR%20DES%20PROJETS-007ACC?style=for-the-badge" alt="Statut">
-  <img src="https://profile-counter.glitch.me/JoannieRazafindralambo/count.svg" alt="Visiteurs">
+  <img src="https://profile-counter.glitch.me/Joannie_Razafindralambo/count.svg" alt="Visiteurs">
 </p>
 
 <br>
