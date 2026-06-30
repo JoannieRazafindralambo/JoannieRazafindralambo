@@ -32,6 +32,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/ADOBE%20ILLUSTRATOR-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator">
+  <img src="https://img.shields.io/badge/ADOBE%20PHOTOSHOP-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop">
+  <img src="https://img.shields.io/badge/ADOBE%20INDESIGN-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" alt="InDesign">
+  <img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
 </p>
 
 <br>
