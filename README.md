@@ -42,8 +42,8 @@
 <!-- Section Contact -->
 <h2 align="center">📫 Pour rester en contact</h2>
 <p align="center">
-  <a href="mailto:j.razafindralambo1107@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-j.razafindralambo1107%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:joannierazafindralambo1106@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-joannierazafindralambo1106%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <img src="https://img.shields.io/badge/LOCALISATION-MADAGASCAR-007A3D?style=for-the-badge" alt="Localisation">
 </p>
