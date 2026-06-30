@@ -12,13 +12,16 @@
 <!-- Section Technologies -->
 <h2 align="center">🚀 Technologies & Compétences</h2>
 
-<h3 align="center">📱 Développement Mobile & Backend</h3>
+<h3 align="center">📱 Développement Web & Mobile</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
   <img src="https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
 </p>
 
 <h3 align="center">🗄️ Outils & Bases de données</h3>
@@ -35,6 +38,7 @@
   <img src="https://img.shields.io/badge/ADOBE%20PHOTOSHOP-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop">
   <img src="https://img.shields.io/badge/ADOBE%20INDESIGN-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" alt="InDesign">
   <img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
+  
 </p>
 
 <br>
